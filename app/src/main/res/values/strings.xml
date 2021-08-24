@@ -7,4 +7,6 @@
     <string name="replace">Replace</string>
     <string name="remove">Remove</string>
     <string name="add">Add</string>
+    <string name="show_activity_message">Show Activity Message</string>
+    <string name="show_fragment_message">Show Fragment Message</string>
 </resources>

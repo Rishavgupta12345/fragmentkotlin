@@ -6,13 +6,5 @@
     android:background="#F40C0C"
     tools:context=".Onefragment">
 
-    <!--  TODO: Update blank fragment layout  -->
-    <TextView
-        android:id="@+id/hello_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal|center_vertical"
-        android:text="@string/one_fragment"
-        android:textSize="24sp"
-        tools:ignore="TextContrastCheck" />
+    <Button android:id="@+id/show_activity_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:text="@string/show_activity_message" android:textSize="18sp"/>
 </FrameLayout>
